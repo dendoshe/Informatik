@@ -22,4 +22,9 @@ public class Informatik {
         
     }
     
+    public void enMetod2(){
+        String ettNamn;
+    }
+    
+    
 }
