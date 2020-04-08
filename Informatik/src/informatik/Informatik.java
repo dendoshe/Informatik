@@ -17,7 +17,7 @@ public class Informatik {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    
+    //tja
     public void enMetod(){
         
     }
