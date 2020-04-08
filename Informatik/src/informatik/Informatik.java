@@ -26,5 +26,8 @@ public class Informatik {
         String ettNamn;
     }
     
+    public void enMetod3 (){
+        
+    }
     
 }
