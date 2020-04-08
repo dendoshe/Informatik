@@ -18,7 +18,7 @@ Ladda ner master och lägg den på branchen du är på:
 	git checkout [dinBranch]
 	git pull origin master
 ```
-Innan du börjar koda gå in på din egna branch:
+Innan du börjar koda gå in på din egna branch: (IMPORTANTE)
 ```
 	git checkout [dinBranch]
 ```
