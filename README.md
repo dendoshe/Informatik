@@ -5,11 +5,11 @@ Detta är ett projekt för scrum o extreme
 ```
 	navigera till din projektmapp i explorer/finder, för mig är det "F:\NetBeansProjects\Informatik"
 ```
-windows:
+  windows:
 ```
 	shift+högerklicka på en tom plats -> Open PowerShell window here
 ```
-mac:
+  mac:
 ```
 	Finder (längst upp till vänster i din toolbar) -> Services -> New Terminal 
 ```
