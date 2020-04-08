@@ -2,8 +2,9 @@
 Detta är ett projekt för scrum o extreme
 
 Öppna en terminal/kommandotolk i projektmappen:
-navigera till din projektmapp i explorer/finder, för mig är det "F:\NetBeansProjects\Informatik"
-
+```
+	navigera till din projektmapp i explorer/finder, för mig är det "F:\NetBeansProjects\Informatik"
+```
 windows:
 ```
 	shift+högerklicka på en tom plats -> Open PowerShell window here
