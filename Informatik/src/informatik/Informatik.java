@@ -18,4 +18,8 @@ public class Informatik {
         // TODO code application logic here
     }
     
+    public void enMetod(){
+        
+    }
+    
 }
